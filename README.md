@@ -1,4 +1,4 @@
-# Entertaining Spice Pretending (Assignment 4 - CSF)
+# Entertaining Spice Pretending
 
 This is a two-player terminal card game inspired by *Spicy*, with simplified rules.
 
